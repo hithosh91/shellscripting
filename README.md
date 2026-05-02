@@ -1,3 +1,3 @@
 # shellscripting
 
-Bash shell Learning
+Bash shell Learning how is good
